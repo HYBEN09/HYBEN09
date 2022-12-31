@@ -31,10 +31,11 @@
 
 <!-- 테마 참고: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
 
-<h4>📌 GitHub Status</h4>
-<img src="https://github-readme-stats.vercel.app/api?username=HYBEN09" height="100" width="42%" />
-<h4>✅ GitHub language</h4>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HYBEN09&layout=compact" height="100"  width="42%"/>     
+<h4 align="center">📌 GitHub Status & language</h4>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=HYBEN09" height="100" width="49%" />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HYBEN09&layout=compact" height="100"  width="49%"/> 
+</div>    
 
 
 
