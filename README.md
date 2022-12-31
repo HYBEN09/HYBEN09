@@ -18,6 +18,11 @@
   <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/html5-11B48A?style=flat-square&logo=html5&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=typescript&logoColor=black"/></a>&nbsp
+<a href="#">
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/></a>&nbsp
+<a href="#">
+
   
 
 </p>
@@ -26,7 +31,10 @@
 
 <!-- 테마 참고: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=hyezzzzziiiii" height="100" width="50%" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyezzzzziiiii&layout=compact" height="100"  width="42%"/>     
+<p>GitHub Status</p>
+<img src="https://github-readme-stats.vercel.app/api?username=HYBEN09" height="100" width="42%" />
+<p>GitHub language</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HYBEN09&layout=compact" height="100"  width="42%"/>     
 
 
 
