@@ -31,9 +31,9 @@
 
 <!-- 테마 참고: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
 
-<p>GitHub Status</p>
+<p>📌 GitHub Status</p>
 <img src="https://github-readme-stats.vercel.app/api?username=HYBEN09" height="100" width="42%" />
-<p>GitHub language</p>
+<p>✅ GitHub language</p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HYBEN09&layout=compact" height="100"  width="42%"/>     
 
 
