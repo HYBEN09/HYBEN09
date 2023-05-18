@@ -43,9 +43,11 @@
 
 
 <h2 align="center">📌 GitHub Status & language</h2>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=HYBEN09" height="100" width="50%" />
+<div align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=HYBEN09" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HYBEN09&layout=compact" height="100"  width="49%"/> 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HYBEN09&layout=compact" height="195" /> 
+</div>
    
 
 
