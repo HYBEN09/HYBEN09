@@ -1,18 +1,17 @@
 
 
-<h2 align="center">Hi there, I'm HyeBeen 🌟</h2>
+<h2 >Hi there, I'm HyeBeen 🌟</h2>
 <br/>
-<p align="center">
+<p >
 	Interested in <b> Front-End & WEB & Design<b/>👩‍💻 
 	<br>
 	I also have interests in various fields!
 </p>
 
 <br/>
-<br/>
-<h3 align="center">🛠 Tech Stack 🛠</h3>
+<h3>🛠 Tech Stack 🛠</h3>
 
-<div align="center">
+<div>
   <br>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/>&nbsp 
@@ -22,7 +21,7 @@
  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
 </div>
 
-<div align="center">
+<div>
  <img src="https://img.shields.io/badge/sass-CC6699?style=flat-square&logo=sass&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled-components&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/Tailwind CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>&nbsp
@@ -31,22 +30,25 @@
 </div>
 <br/>
 
-<h3 align="center">🛠 Tools 🛠</h3>
-<div align="center">
+<h3>🛠 Tools 🛠</h3>
+<div>
 <img src="https://img.shields.io/badge/github-181717?style=flat-square=flat-square&logo=github&logoColor=white">&nbsp
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white">&nbsp
-<img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white">&nbsp
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white">&nbsp
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white">&nbsp
 </div>
+<br/>
+<h3>📚 Notion</h3>
 
+  * ✏️ [TIL](https://brick-egret-99d.notion.site/tech-interview-ba5f5c6a6ff54dc8a0257ae2f9ff8d1b?pvs=4)
 
+<br/>
 
-<h2 align="center">📌 GitHub Status & language</h2>
-<div align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=HYBEN09" />
+<h2 >📌 GitHub Status & language</h2>
+<div >
+<img  src="https://github-readme-stats.vercel.app/api?username=HYBEN09" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HYBEN09&layout=compact" height="195" /> 
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=HYBEN09&layout=compact" height="195" /> 
 </div>
    
 
