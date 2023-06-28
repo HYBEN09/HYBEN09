@@ -38,11 +38,6 @@
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white">&nbsp
 </div>
 <br/>
-<h3>📚 Notion</h3>
-
-  * ✏️ [TIL](https://brick-egret-99d.notion.site/tech-interview-ba5f5c6a6ff54dc8a0257ae2f9ff8d1b?pvs=4)
-
-<br/>
 
 <h2 >📌 GitHub Status & language</h2>
 <div >
